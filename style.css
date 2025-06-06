@@ -46,9 +46,9 @@ body {Add commentMore actions
     }
     .categoria-videos img:hover {
         opacity: 1.0;
-        border: 2px solid beige;
+        border: 2px solid rgb(255, 0, 0);
     }
     .catedoria h2 {
-        color: blueviolet;
+        color: rgb(208, 255, 0);
     }
     
