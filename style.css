@@ -1,0 +1,54 @@
+body {Add commentMore actions
+        color:red;
+        background: black;
+        margin: 0px;
+        font-family: "DynaPuff", system-ui;
+        margin-bottom: 100px;
+    }
+    header {
+        border-bottom: solid 2px blue;
+        padding: 20px;
+        font-size: 40px;
+        color:aqua;
+        text-align: center;
+        font-weight: 800;
+    }
+    .chamada {
+        background: pink(39, 85, 122);
+        padding-bottom: 30px;
+        padding-top: 30px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .chamada {
+        margin-right: 5%;
+     }
+     h1 {
+        font-size: 30px;
+     }
+     p {
+        font-size: 20px;
+     }
+    .categoria-videos {
+        display: flex;
+        overflow-x: auto;
+        gap: 5px;
+    }
+    .categpria {
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 50px;
+    }
+    .categoria-videos img {
+        opacity: 0.5;
+        height: 200px;
+    }
+    .categoria-videos img:hover {
+        opacity: 1.0;
+        border: 2px solid beige;
+    }
+    .catedoria h2 {
+        color: blueviolet;
+    }
+    
